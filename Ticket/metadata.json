@@ -1,0 +1,6 @@
+{
+  "name": "Ticketing and Booking Platform",
+  "description": "Comprehensive entertainment venue ticketing and booking system based on Pega Blueprint BP-2418304, featuring 6 personas, end-to-end ticketing workflow, interactive seating allocation, digital passes with QR codes, vendor and sponsor management, and control agent governance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
